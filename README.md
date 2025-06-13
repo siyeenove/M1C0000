@@ -43,7 +43,7 @@ Please send an email to:
 
 Please visit the following page to purchase our products:
 
-🛒 Online Store: https://siyeenove.com/buy
+🛒 Online Store: https://siyeenove.com/buy      
 🛒 Amazon - [link](https://www.amazon.com/dp/B0DKX3G6M9)
 
 Business customers please contact us through the following email address:
