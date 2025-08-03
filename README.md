@@ -48,7 +48,7 @@ Please visit the following page to purchase our products:
 
 Business customers please contact us through the following email address:
 
-📧 siyeenove@outlook.com
+📧 support@siyeenove.com
 
 ## Copyright
 
