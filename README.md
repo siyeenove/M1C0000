@@ -35,7 +35,7 @@ If you meet any difficulties, please contact our support team for help.
 
 Please send an email to:
 
-📧 siyeenove@outlook.com    
+📧 support@siyeenove.com    
 
 ⏳ Typical response time: 1 business day
 
