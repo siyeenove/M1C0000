@@ -1,9 +1,9 @@
 # M1C0000
 mCar - microbit car
 
-mCar uses makecode programming.
+mCar is programmed using makecode and Python editor.
 
-[MakeCode](https://www.microbit.org/).
+[programming](https://www.microbit.org/code/).
 
 ## Download
 
