@@ -47,7 +47,7 @@ while True:
         setWheelSpeed(rightwheel, forward, 50)  
     else:
         # Forward
-        setWheelSpeed(leftwheel, forward, 100)
-        setWheelSpeed(rightwheel, forward, 100) 
+        setWheelSpeed(leftwheel, forward, 70)
+        setWheelSpeed(rightwheel, forward, 70) 
      
 
